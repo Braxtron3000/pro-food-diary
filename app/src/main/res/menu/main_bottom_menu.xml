@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/searchHomeFragment"
+        android:icon="@drawable/ic_magnifying_glass_solid"
+        android:title="@string/mainFragmentTitle" />
+    <item
+        android:id="@+id/historyFragment"
+        android:icon="@drawable/ic_rectangle_list_solid"
+        android:title="@string/historyFragmentTitle" />
+    <item android:id="@+id/accountFragment"
+        android:icon="@drawable/ic_user_solid"
+        android:title="@string/accountFragmentTitle"/>
+</menu>

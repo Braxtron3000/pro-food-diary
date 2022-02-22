@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/drawable/ic_magnifying_glass_solid.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/drawable/ic_rectangle_list_solid.xml" value="0.109375" />
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/drawable/ic_user_solid.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/layout/account_fragment.xml" value="0.22" />
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/layout/history_fragment.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/layout/main_activity.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/layout/main_fragment.xml" value="0.25" />
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/layout/search_fragment.xml" value="0.1" />
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/layout/search_home_fragment.xml" value="0.18" />
+        <entry key="..\:/androidStudioProjects/DietLogger/app/src/main/res/menu/main_bottom_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
