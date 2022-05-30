@@ -4,7 +4,7 @@
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/tart</item>
         <item name="colorPrimaryVariant">@color/tart_dark</item>
-        <item name="colorOnPrimary">@color/whip</item>
+        <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/ruby</item>
         <item name="colorSecondaryVariant">@color/red_crayola</item>
